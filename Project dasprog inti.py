@@ -18,6 +18,7 @@ books = load()
 judul = input("Judul: ").strip()
 penulis = input("Penulis: ").strip()
 genre = input("Genre: ").strip()
+isbn = input("ISBN: ").strip()
 
 try:
     halaman = int(input("Jumlah halaman: "))
@@ -30,6 +31,7 @@ books.append({
     "penulis": penulis,
     "genre": genre,
     "halaman": halaman
+    "ISBN":isbn
 })
 save(books)
 
