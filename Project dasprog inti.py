@@ -14,10 +14,23 @@ def save(books):
         json.dump(books, f, indent=2, ensure_ascii=False)
 
 books = load()
-judul = input("Judul: ")
-penulis = input("Penulis: ")
-books.append({"judul": judul, "penulis": penulis})
+
+judul = input("Judul: ").strip()
+penulis = input("Penulis: ").strip()
+genre = input("Genre: ").strip()
+
+try:
+    halaman = int(input("Jumlah halaman: "))
+except ValueError:
+    print("Halaman harus angka. Buku tidak disimpan.")
+    exit()
+
+books.append({
+    "judul": judul,
+    "penulis": penulis,
+    "genre": genre,
+    "halaman": halaman
+})
 save(books)
 
 print("Tersimpan! Total buku:", len(books))
-print("Dawam")

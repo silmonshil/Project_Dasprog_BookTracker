@@ -1,10 +1,308 @@
 [
   {
-    "judul": "pergi",
-    "penulis": "tere liye"
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "genre": "Fiksi Inspiratif",
+    "halaman": 529
   },
   {
-    "judul": "Hujan",
-    "penulis": "Tere Liye"
+    "judul": "Bumi Manusia",
+    "penulis": "Pramoedya Ananta Toer",
+    "genre": "Sastra Klasik",
+    "halaman": 535
+  },
+  {
+    "judul": "Dilan 1990",
+    "penulis": "Pidi Baiq",
+    "genre": "Romansa",
+    "halaman": 332
+  },
+  {
+    "judul": "Negeri 5 Menara",
+    "penulis": "Ahmad Fuadi",
+    "genre": "Fiksi Inspiratif",
+    "halaman": 423
+  },
+  {
+    "judul": "Ayat-Ayat Cinta",
+    "penulis": "Habiburrahman El Shirazy",
+    "genre": "Religi",
+    "halaman": 419
+  },
+  {
+    "judul": "Filosofi Teras",
+    "penulis": "Henry Manampiring",
+    "genre": "Pengembangan Diri",
+    "halaman": 346
+  },
+  {
+    "judul": "Sapiens",
+    "penulis": "Yuval Noah Harari",
+    "genre": "Sejarah",
+    "halaman": 443
+  },
+  {
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "genre": "Pengembangan Diri",
+    "halaman": 320
+  },
+  {
+    "judul": "Harry Potter and the Philosopher's Stone",
+    "penulis": "J.K. Rowling",
+    "genre": "Fantasi",
+    "halaman": 332
+  },
+  {
+    "judul": "The Hobbit",
+    "penulis": "J.R.R. Tolkien",
+    "genre": "Fantasi",
+    "halaman": 310
+  },
+  {
+    "judul": "Foundation",
+    "penulis": "Isaac Asimov",
+    "genre": "Fiksi Ilmiah",
+    "halaman": 255
+  },
+  {
+    "judul": "Murder on the Orient Express",
+    "penulis": "Agatha Christie",
+    "genre": "Misteri",
+    "halaman": 256
+  },
+  {
+    "judul": "The Da Vinci Code",
+    "penulis": "Dan Brown",
+    "genre": "Thriller",
+    "halaman": 489
+  },
+  {
+    "judul": "Gone Girl",
+    "penulis": "Gillian Flynn",
+    "genre": "Thriller Psikologis",
+    "halaman": 422
+  },
+  {
+    "judul": "Pride and Prejudice",
+    "penulis": "Jane Austen",
+    "genre": "Romansa Klasik",
+    "halaman": 432
+  },
+  {
+    "judul": "The Great Gatsby",
+    "penulis": "F. Scott Fitzgerald",
+    "genre": "Sastra Klasik",
+    "halaman": 180
+  },
+  {
+    "judul": "The Alchemist",
+    "penulis": "Paulo Coelho",
+    "genre": "Fiksi Filosofis",
+    "halaman": 208
+  },
+  {
+    "judul": "Rich Dad Poor Dad",
+    "penulis": "Robert Kiyosaki",
+    "genre": "Keuangan",
+    "halaman": 336
+  },
+  {
+    "judul": "The Psychology of Money",
+    "penulis": "Morgan Housel",
+    "genre": "Keuangan",
+    "halaman": 252
+  },
+  {
+    "judul": "Thinking, Fast and Slow",
+    "penulis": "Daniel Kahneman",
+    "genre": "Psikologi",
+    "halaman": 499
+  },
+  {
+    "judul": "Educated",
+    "penulis": "Tara Westover",
+    "genre": "Memoar",
+    "halaman": 352
+  },
+  {
+    "judul": "Man's Search for Meaning",
+    "penulis": "Viktor Frankl",
+    "genre": "Psikologi",
+    "halaman": 165
+  },
+  {
+    "judul": "A Brief History of Time",
+    "penulis": "Stephen Hawking",
+    "genre": "Sains",
+    "halaman": 256
+  },
+  {
+    "judul": "Cosmos",
+    "penulis": "Carl Sagan",
+    "genre": "Sains",
+    "halaman": 396
+  },
+  {
+    "judul": "Dracula",
+    "penulis": "Bram Stoker",
+    "genre": "Horor",
+    "halaman": 418
+  },
+  {
+    "judul": "It",
+    "penulis": "Stephen King",
+    "genre": "Horor",
+    "halaman": 1138
+  },
+  {
+    "judul": "The Hunger Games",
+    "penulis": "Suzanne Collins",
+    "genre": "Distopia",
+    "halaman": 374
+  },
+  {
+    "judul": "Normal People",
+    "penulis": "Sally Rooney",
+    "genre": "Fiksi Kontemporer",
+    "halaman": 266
+  },
+  {
+    "judul": "Kafka on the Shore",
+    "penulis": "Haruki Murakami",
+    "genre": "Realisme Magis",
+    "halaman": 505
+  },
+  {
+    "judul": "Convenience Store Woman",
+    "penulis": "Sayaka Murata",
+    "genre": "Fiksi Kontemporer",
+    "halaman": 163
+  },
+  {
+    "judul": "Perahu Kertas",
+    "penulis": "Dee Lestari",
+    "genre": "Romansa",
+    "halaman": 444
+  },
+  {
+    "judul": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+    "penulis": "Dee Lestari",
+    "genre": "Fiksi Ilmiah",
+    "halaman": 292
+  },
+  {
+    "judul": "Ronggeng Dukuh Paruk",
+    "penulis": "Ahmad Tohari",
+    "genre": "Sastra Klasik",
+    "halaman": 408
+  },
+  {
+    "judul": "Entrok",
+    "penulis": "Okky Madasari",
+    "genre": "Sastra",
+    "halaman": 282
+  },
+  {
+    "judul": "Sebuah Seni untuk Bersikap Bodo Amat",
+    "penulis": "Mark Manson",
+    "genre": "Pengembangan Diri",
+    "halaman": 246
+  },
+  {
+    "judul": "Gadis Kretek",
+    "penulis": "Ratih Kumala",
+    "genre": "Fiksi Sejarah",
+    "halaman": 274
+  },
+  {
+    "judul": "Dunia Sophie",
+    "penulis": "Jostein Gaarder",
+    "genre": "Filsafat",
+    "halaman": 535
+  },
+  {
+    "judul": "The Catcher in the Rye",
+    "penulis": "J.D. Salinger",
+    "genre": "Fiksi Klasik",
+    "halaman": 277
+  },
+  {
+    "judul": "Frankenstein",
+    "penulis": "Mary Shelley",
+    "genre": "Gotik",
+    "halaman": 280
+  },
+  {
+    "judul": "The Girl on the Train",
+    "penulis": "Paula Hawkins",
+    "genre": "Thriller",
+    "halaman": 395
+  },
+  {
+    "judul": "Steve Jobs",
+    "penulis": "Walter Isaacson",
+    "genre": "Biografi",
+    "halaman": 630
+  },
+  {
+    "judul": "Becoming",
+    "penulis": "Michelle Obama",
+    "genre": "Memoar",
+    "halaman": 448
+  },
+  {
+    "judul": "Guns, Germs, and Steel",
+    "penulis": "Jared Diamond",
+    "genre": "Sejarah",
+    "halaman": 480
+  },
+  {
+    "judul": "The Martian",
+    "penulis": "Andy Weir",
+    "genre": "Fiksi Ilmiah",
+    "halaman": 369
+  },
+  {
+    "judul": "Neuromancer",
+    "penulis": "William Gibson",
+    "genre": "Cyberpunk",
+    "halaman": 271
+  },
+  {
+    "judul": "A Game of Thrones",
+    "penulis": "George R.R. Martin",
+    "genre": "Fantasi Epik",
+    "halaman": 694
+  },
+  {
+    "judul": "Little Women",
+    "penulis": "Louisa May Alcott",
+    "genre": "Fiksi Klasik",
+    "halaman": 449
+  },
+  {
+    "judul": "The Kite Runner",
+    "penulis": "Khaled Hosseini",
+    "genre": "Drama",
+    "halaman": 371
+  },
+  {
+    "judul": "Siddhartha",
+    "penulis": "Hermann Hesse",
+    "genre": "Filsafat",
+    "halaman": 152
+  },
+  {
+    "judul": "Salt, Fat, Acid, Heat",
+    "penulis": "Samin Nosrat",
+    "genre": "Kuliner",
+    "halaman": 480
+  },
+  {
+    "judul": "dawd",
+    "penulis": "adwa",
+    "genre": "ada",
+    "halaman": 12
   }
 ]
