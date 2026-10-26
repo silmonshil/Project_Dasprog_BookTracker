@@ -1,0 +1,18 @@
+{
+    "nama": "Budi Santoso",
+    "umur": 25,
+    "email": "budi.santoso@example.com",
+    "is_employee": true,
+    "hobbies": [
+      "membaca",
+      "bersepeda",
+      "fotografi"
+    ],
+    "address": {
+      "street": "Jl. Merdeka No. 10",
+      "city": "Jakarta",
+      "state": "DKI Jakarta",
+      "zip": "10110"
+    }
+}
+  
