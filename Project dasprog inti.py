@@ -1,4 +1,3 @@
-
 import json
 import os
 
@@ -21,3 +20,4 @@ books.append({"judul": judul, "penulis": penulis})
 save(books)
 
 print("Tersimpan! Total buku:", len(books))
+print("Dawam")
